@@ -8,7 +8,7 @@ landing page
 ## 3. add name and title
 ## 4. add contact email address
 
-#GIT COMMANDS
+# GIT COMMANDS
 ## GIT STATUS
 ## GIT ADD .
 ## GIT COMMIT -m "entera description"
