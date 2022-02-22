@@ -9,6 +9,6 @@ Welcome to my landing page. Here in this readme file you will find a list of tod
 
 # GIT COMMANDS
 
-### GIT STATUS
+### 1. GIT STATUS
 ### GIT ADD .
 ### GIT COMMIT -m "entera description"
