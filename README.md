@@ -10,5 +10,5 @@ Welcome to my landing page. Here in this readme file you will find a list of tod
 # GIT COMMANDS
 
 ### 1. GIT STATUS
-### GIT ADD .
-### GIT COMMIT -m "entera description"
+### 2. GIT ADD .
+### 3. GIT COMMIT -m "enter description"
