@@ -10,4 +10,8 @@ Welcome to my landing page. Here in this readme file you will find a list of tod
 # GIT COMMANDS
 ### 1. GIT STATUS
 ### 2. GIT ADD .
+<<<<<<< HEAD
 ### 3. GIT COMMIT -m "enter a description"
+=======
+### 3. GIT COMMIT -m "enter description"
+>>>>>>> 88c89e6cb375c4f83dd9046ddeefb716b1afd2eb
