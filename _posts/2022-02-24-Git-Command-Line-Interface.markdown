@@ -10,21 +10,39 @@ Git Work Flow:
 Github
 
 dir
-CD arminmujkanovic@github.io
+CD arminmujkanovic@github.io or cd arminmujkanovic.github.io
 git add .
 git status
 git commit -m “added new notes” ( example git commit -m "index.html file" or ... "name file"
 git push
 
-(all done)
-git status
+git status (all done)
 
 atom .
+
+bundle exec jekyll serve
+
 {% endhighlight %}
 
 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+Let show you committed how to work what is red and lightgreen
+Make sure see to example
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        <red>modified:   README.md</red>
+        This is mean error missing connection then you need to go try to find when you see green code. That is mean connection the link ATOM to Command Prompt.
+
+{% highlight ruby %}
+      "modified:"    "README.md" Red is mean missing connection
+{% endhighlight %}
+
+{% highlight ruby %}
+      "modified:"    "README.md" Green is mean connection.
+{% endhighlight %}
 
 Jekyll requires blog post files to be named according to the following format:
 
@@ -48,3 +66,11 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+<style type="text/css">
+
+    .customHighlight {
+        background-color: lightgreen;
+    }
+
+   </style>

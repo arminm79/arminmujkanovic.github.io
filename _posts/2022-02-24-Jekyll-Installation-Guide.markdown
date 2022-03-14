@@ -10,9 +10,9 @@ Instructions:
 2. Open command prompt and run `gem install jekyll bundler`
 3. check that Jekyll is installed `jekyll -v`
 4. add jekyll to your github repository `jekyll new --skip-bundle .`
-5.
-6.
-7. 
+5. add bundle exec jekyll serve
+6. Mostly use start first typing git name each ```word end```
+7. How to make end or quit to press can work continue.
 
 
 

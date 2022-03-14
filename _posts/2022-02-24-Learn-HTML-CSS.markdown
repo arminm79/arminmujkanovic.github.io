@@ -23,9 +23,9 @@ CSS:
     }
 
   	.tab {
-    	margin-left: 50px;
+    	margin-left: 100px;
         background-color: lightgreen;
-        front-size 100px;
+        front-size 75px;
         }
 
    </style>
@@ -50,6 +50,8 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+What is CSS is mean Cascading Style Sheets. Learn CSS & CSS Tutorials.
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
